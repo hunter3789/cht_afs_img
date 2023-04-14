@@ -5,4 +5,5 @@
 - plot Observation Data (GTS, Satellite, Radar, AMDAR, ASCAT)
 - overlay multiple chart layers
 
-[Demo image] (https://hunter3789.github.io/cht_afs_img/image/demo_image1.png)
+[Demo image]
+<img src="https://hunter3789.github.io/cht_afs_img/image/demo_image1.png">
